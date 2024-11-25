@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT/Redes Neurais artificiais.md",
+                "file": "Metodologia de Pesquisa Científica/Tema de pesquisa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redes Neurais artificiais"
+              "title": "Tema de pesquisa"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia de Pesquisa Científica/Introdução.md",
+                "file": "Metodologia de Pesquisa Científica/Tema de pesquisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução"
+              "title": "Backlinks for Tema de pesquisa"
             }
           },
           {
@@ -156,8 +156,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,10 +176,12 @@
   },
   "active": "a8b9d816d6b1a13a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Metodologia de Pesquisa Científica/Tema de pesquisa.md",
+    "GPT/Redes Neurais artificiais.md",
     "Pasted image 20241121172501.png",
     "GPT/Introdução a Redes Neurais.md",
     "Pasted.md",
-    "GPT/Redes Neurais artificiais.md",
     "Pasted image 20241121172224.png",
     "Pasted image 20241121172220.png",
     "Pasted image 20241121172057.png",
@@ -192,7 +193,6 @@
     "create a link.md",
     "Welcome.md",
     "GPT/História.md",
-    "Metodologia de Pesquisa Científica/Tema de pesquisa.md",
     "GPT/Introdução a GPTs.md",
     "Metodologia de Pesquisa Científica/Introdução.md",
     "DIspositivos móveis/Aula Inaugural.md",
