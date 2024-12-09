@@ -9,12 +9,12 @@ Aspectos a serem considerados na escolha do tema:
 - Ser viável em termos de levantamento de informações
 - Interesse do orientador
 
-O tema deve ser refinado até um nı́vel de especificidade que seja
+O tema deve ser refinado até um nível de especificidade que seja
 adequado para a condução da pesquisa. Exemplo:
 1. Ciência da Computação
    1.1 Inteligência Computacional
     1.1.1 Métodos de Busca
-	 1.1.1.1 Busca Heurı́stica
+	 1.1.1.1 Busca Heurística
 	  1.1.1.1.1. Algoritmo A∗
 Tema amplo -> Maior quantidade de referências a serem lidas
 	Mais contexto a ser levado em conta
