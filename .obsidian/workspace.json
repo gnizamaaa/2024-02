@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "537ccbf08abc0472",
+        "id": "186aa6ff8d0e08c8",
         "type": "tabs",
         "children": [
           {
-            "id": "798e83625ade5993",
+            "id": "21b3ab707f4f0042",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Language Models"
             }
-          },
-          {
-            "id": "f70386f7ad7aeb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trabalho"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,27 +175,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f70386f7ad7aeb02",
+  "active": "21b3ab707f4f0042",
   "lastOpenFiles": [
+    "Pasted image 20250206174259.png",
+    "Pasted image 20250206174254.png",
+    "Pasted image 20250206172300.png",
+    "Pasted image 20250206171616.png",
+    "Pasted image 20250206171044.png",
+    "Pasted image 20250206164855.png",
+    "Pasted image 20250206162541.png",
+    "Pasted image 20250206155602.png",
+    "Pasted image 20250206154259.png",
+    "Pasted image 20250206153942.png",
+    "GPT/Recurrent Neural Networks.md",
+    "GPT/Redes Neurais artificiais.md",
+    "Natural Language Processing.md",
     "GPT/Language Models.md",
+    "Dicas para Análise Experimental de Algoritmos.md",
+    "DIspositivos móveis/Banco de dados com ROOM.md",
+    "Pasted image 20250131160905.png",
     "Trabalho.md",
     "GPT/Autoregressive models.md",
-    "Pasted image 20250130171550.png",
-    "Pasted image 20250130171020.png",
-    "GPT/Recurrent Neural Networks.md",
-    "Pasted image 20250130163317.png",
-    "Pasted image 20250130162847.png",
-    "Pasted image 20250130160205.png",
-    "Pasted image 20250130160036.png",
-    "Pasted image 20250130154126.png",
-    "Pasted image 20250130153515.png",
-    "Pasted image 20250130152551.png",
-    "Pasted image 20250130152047.png",
     "Metodologia de Pesquisa Científica/Atividade em sala - Desenvolvimento de Pesquisa.md",
     "DIspositivos móveis/Ciclo de vida de uma activity.md",
     "GPT/Visual Recognition.md",
     "DIspositivos móveis/Retrofit - HTTP.md",
-    "GPT/Redes Neurais artificiais.md",
     "GPT/Introdução a GPTs.md",
     "GPT/Inicialização dos pesos.md",
     "GPT/Fitting.md",
@@ -224,8 +213,6 @@
     "create a link.md",
     "Welcome.md",
     "GPT/História.md",
-    "Metodologia de Pesquisa Científica/Introdução.md",
-    "DIspositivos móveis/Aula Inaugural.md",
     "GPT",
     "DIspositivos móveis",
     "2024-02",
