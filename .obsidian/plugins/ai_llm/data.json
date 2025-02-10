@@ -1,0 +1,5 @@
+{
+  "ollama_endpoint": "127.0.0.1",
+  "model": "llama3.2:latest",
+  "botRole": "You are a helpful assistant providing only short answers"
+}
