@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ed1e0490baef6f2",
+            "id": "733102aa410918e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologia de Pesquisa Científica/Redação de artigos.md",
+                "file": "Navegação com Navigation Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redação de artigos"
+              "title": "Navegação com Navigation Component"
+            }
+          },
+          {
+            "id": "5b1d497f745377e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navegação com NavigationUI - O melhorzinho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Navegação com NavigationUI - O melhorzinho"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,12 +195,16 @@
       "ai_llm:Local LLM Chat": false
     }
   },
-  "active": "3ed1e0490baef6f2",
+  "active": "5b1d497f745377e8",
   "lastOpenFiles": [
+    "Pasted image 20250214160740.png",
+    "Navegação com Navigation Component.md",
+    "Navegação com NavigationUI - O melhorzinho.md",
+    "Pasted image 20250214153903.png",
+    "Metodologia de Pesquisa Científica/Redação de artigos.md",
     "Metodologia de Pesquisa Científica/Revisão Sistemática da Literatura.md",
     "Metodologia de Pesquisa Científica/Introdução.md",
     "Metodologia de Pesquisa Científica/Atividade em sala - Desenvolvimento de Pesquisa.md",
-    "Metodologia de Pesquisa Científica/Redação de artigos.md",
     "GPT/Introdução a Redes Neurais.md",
     "Fragments.md",
     "Pasted image 20250207155659.png",
@@ -197,7 +216,6 @@
     "Pasted image 20250207154325.png",
     "Pasted image 20250207154215.png",
     "Pasted image 20250207154031.png",
-    "Pasted image 20250207153216.png",
     "GPT/Language Models.md",
     "GPT/Recurrent Neural Networks.md",
     "GPT/Redes Neurais artificiais.md",
@@ -215,9 +233,6 @@
     "GPT/Dropout.md",
     "Untitled 1.md",
     "Metodologia de Pesquisa Científica/Tema de pesquisa.md",
-    "Untitled.md",
-    "Pasted.md",
-    "create a link.md",
     "GPT",
     "DIspositivos móveis",
     "2024-02",
